@@ -51,10 +51,11 @@
 
 ---
 
-### 🌱 Current Focus
-- Developing **microservices in Go** and integrating them with CI/CD pipelines  
-- Exploring **Swift** and **VueJS**
-- Strengthening expertise in **Machine Learning**
+### 🌱 Current Focus  
+- Building responsive and consistent UIs in **Angular with Ionic**, ensuring alignment with design systems and **Human Interface Guidelines (HIG)**  
+- Maintaining and developing **Node.js microservices**, integrated with **CI/CD pipelines** for efficient deployment  
+- Exploring and expanding proficiency in **Swift** for iOS development and **Vue.js** for modern web interfaces  
+- Strengthening understanding of **Machine Learning**, focusing on model integration and practical implementation
 
 ---
 
